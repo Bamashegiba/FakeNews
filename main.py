@@ -1,2 +1,8 @@
+from NewsParser import NewsPars
 
-print ("hello world")
+def main():
+    print ("Poka tolko parser")
+    NewsPars()
+
+if __name__ == "__main__":
+    main()
