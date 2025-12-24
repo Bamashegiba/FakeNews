@@ -22,7 +22,8 @@
 
 Пример графиков:
 
-<img width="1051" height="726" alt="python_E8XXX7KWpN" src="https://github.com/user-attachments/assets/1b2e0814-d967-4d8d-a8d0-dfa836e10d37" />
+<img width="2100" height="1423" alt="изображение" src="https://github.com/user-attachments/assets/6abe827d-1ef0-4822-ada8-bf2ad8ac756b" />
+
 
 Таблица метрик:
 
